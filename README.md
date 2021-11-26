@@ -14,3 +14,6 @@
 [Click Me] ("www.google.com")
 
 [Google] ("www.google.com")
+
+# Img in Readme File
+![Snitch](snitch.jpg)
