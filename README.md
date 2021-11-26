@@ -6,3 +6,4 @@
 ######Heading6
 #Test Styles
 *italic*
+**bold**
