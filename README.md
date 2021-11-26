@@ -4,7 +4,13 @@
 #### Heading4
 ##### Heading5
 ###### Heading6
-# Test Styles
+
+# Text Styles
 *italic*
 **bold**
 ***bold and italic***
+<a href="">click me</a>
+# Link Readme File 
+[Click Me] ("www.google.com")
+
+[Google] ("www.google.com")
