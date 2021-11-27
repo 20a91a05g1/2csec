@@ -70,10 +70,11 @@
 
 
 
-'''pyhton
+``` pyhton
    a=10
    b=2
    c=3
+   if a%2==0
    print(a+b+c)
-'''
+```
 
