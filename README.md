@@ -70,7 +70,7 @@
 
 
 
-``` pyhton
+``` Python
 
     def hello ()
         a=10
